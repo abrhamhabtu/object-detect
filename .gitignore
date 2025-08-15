@@ -1,0 +1,6 @@
+#virtual Evniromnet
+venv/
+.venv/
+
+#pycharm specfic files
+.ideas
