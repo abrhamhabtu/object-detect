@@ -6,3 +6,4 @@ venv/
 .ideas
 
 #API keys and secrets
+.env
